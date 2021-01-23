@@ -56,7 +56,7 @@ Enter a number and have the program generate the Fibonacci sequence to that numb
 **Prime Factorization(Completed)**
 Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
-**Next Prime Number**
+**Next Prime Number(Completed)**
 Have the program find prime numbers until the user chooses to stop asking for the next one.
 
 **Find Cost of Tile to Cover W x H Floor(Completed)**
@@ -68,7 +68,7 @@ Calculate the monthly payments of a fixed term mortgage over given Nth terms at 
 **Change Return Program(Completed)**
 The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
 
-**Binary to Decimal and Back Converter(In Progress)**
+**Binary to Decimal and Back Converter(Completed)**
 Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
 
 **Calculator(In Progress, bug fixing)**
@@ -83,7 +83,7 @@ A simple clock where it plays a sound after X number of minutes/seconds or at a 
 **Distance Between Two Cities**
 Calculates the distance between two cities and allows the user to specify a unit of distance. This program may require finding coordinates for the cities like latitude and longitude.
 
-**Credit Card Validator**
+**Credit Card Validator(In Progress)**
 Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
 
 **Tax Calculator**
@@ -156,13 +156,13 @@ An [Inverted Index](http://en.wikipedia.org/wiki/Inverted_index) is a data struc
 Text
 ---------
 
-**Fizz Buzz**
+**Fizz Buzz(Completed)**
 Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
 
-**Reverse a String**
+**Reverse a String(Completed)**
 Enter a string and the program will reverse it and print it out.
 
-**Pig Latin**
+**Pig Latin(Completed)**
 Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
 
 **Count Vowels**
@@ -171,7 +171,7 @@ Enter a string and the program counts the number of vowels in the text. For adde
 **Check if Palindrome**
 Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
 
-**Count Words in a String**
+**Count Words in a String(Completed)**
 Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary.
 
 **Text Editor**
